@@ -1,1 +1,1 @@
-# React-HW-ITEA
+# React HW ITEA
