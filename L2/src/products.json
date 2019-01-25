@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "color": "red",
+    "date": "12.12.18",
+    "quantity": 12,
+    "price": "30",
+    "currency": "$"
+  },
+  {
+    "id": 2,
+    "date": "15.01.18",
+    "quantity": 47,
+    "price": "50",
+    "currency": "grn"
+  },
+  {
+    "id": 3,
+    "color": "blue",
+    "date": "11.03.18",
+    "quantity": 29,
+    "price": "140",
+    "currency": "$"
+  },
+  {
+    "id": 4,
+    "date": "17.10.18",
+    "quantity": 45,
+    "price": "220",
+    "currency": "$"
+  },
+  {
+    "id": 5,
+    "date": "12.12.18",
+    "quantity": 199,
+    "price": "20",
+    "currency": "grn"
+  },
+  {
+    "id": 6,
+    "date": "18.12.18",
+    "quantity": 19,
+    "price": "70",
+    "currency": "grn"
+  }
+]

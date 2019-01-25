@@ -1,0 +1,32 @@
+td {
+    border: 1px solid #000;
+}
+
+.loading,
+.loaded {
+    position: relative;
+}
+
+.loading img {
+    opacity: 0;
+}
+
+.loaded img {
+    opacity: 1;
+    transition: opacity 2s linear;
+}
+
+.loading div,
+.loaded div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+    overflow: hidden;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: red;
+}
